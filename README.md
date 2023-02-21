@@ -1,18 +1,18 @@
 <style>
-    #tagline #h3-after {
+    .tagline .h3-after {
         display: none;
     }
-    #tagline:hover #h3-after {
+    .tagline:hover .h3-after {
         display: block;
     }
-    #tagline:hover #h3-before {
+    .tagline:hover .h3-before {
         display: none;
     }   
 </style>
 <h1 align="center">Hi 👋, I'm @tnt-exe</h1>
-<div id="tagline">
-<h3 align="center" id="h3-before">Just a passing-through developer</h3>
-<h3 align="center" id="h3-after">Remember it!</h3>
+<div class="tagline">
+<h3 align="center" class="h3-before">Just a passing-through developer</h3>
+<h3 align="center" class="h3-after">Remember it!</h3>
 </div>
 
 <!-- intro -->
