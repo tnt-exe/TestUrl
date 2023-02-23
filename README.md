@@ -13,5 +13,5 @@
 </div>
 <!-- streak stats -->
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tnt-exe&theme=transparent" alt="tnt-exe | streak" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tnt-exe&theme=vue-dark" alt="tnt-exe | streak" />
 </div>
